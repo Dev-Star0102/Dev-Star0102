@@ -1,7 +1,35 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Alexis David, Fullstack Engineer from <img src="https://flagcdn.com/16x12/fi.png" width="13"/> <b>Bristol, United Kingdom</b></p>
+<p align="left">
+<!--   <img
+    src="https://komarev.com/ghpvc/?username=antondev-123&label=Profile%20views&color=0e75b6&style=flat"
+    alt="antondev-123"
+  /> -->
+</p>
+
+<p align="left">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=antondev-123"
+      alt="antondev-123"
+  /></a> -->
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
+      alt=""
+  /></a>
+</p>
+
+- 🔭 I’m currently working on **Upwork** - 🌱 I’m currently learning **Quasar
+framework** - 📫 How to reach me **lucky.dev0102@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
+
 
 **What if you like my work?**
 
