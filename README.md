@@ -6,7 +6,7 @@
 **What if you like my work?**
 
 - You can Star ⭐ the repositories you like. 
-- You can react ❤️ to my Linkedin posts.
+
 <br>
 
 ## 🛠️ Languages and Tools:
