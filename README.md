@@ -24,8 +24,9 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Upwork** - 🌱 I’m currently learning **Quasar
-framework** - 📫 How to reach me **lucky.dev0102@gmail.com**
+- 🔭 I’m currently working on **Upwork**
+- 🌱 I’m currently learning **Quasar framework**
+- 📫 How to reach me **lucky.dev0102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
