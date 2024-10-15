@@ -28,10 +28,6 @@
 - 🌱 I’m currently learning **Quasar framework**
 - 📫 How to reach me **lucky.dev0102@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
-
 **What if you like my work?**
 
 - You can Star ⭐ the repositories you like. 
@@ -67,4 +63,28 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />  
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
+</p>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-star0102&show_icons=true&locale=en&layout=compact"
+    alt="dev-star0102"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=dev-star0102&show_icons=true&locale=en"
+    alt="dev-star0102"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dev-star0102&"
+    alt="dev-star0102"
+  />
 </p>
